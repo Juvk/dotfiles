@@ -47,8 +47,8 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = lienvandensteen@gmail.com
-	name = lien van den steen
+	email = juliette@gmail.com
+	name = Juliette van Kampen
 [filter "lfs"]
 	clean = git-lfs clean %f
 	smudge = git-lfs smudge %f
